@@ -1,1 +1,2 @@
 /playground.ipynb filter=lfs diff=lfs merge=lfs -text
+/models/generator.pth filter=lfs diff=lfs merge=lfs -text
